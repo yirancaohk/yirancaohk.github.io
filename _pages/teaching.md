@@ -7,9 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-### Yale University (Teaching Assistant)
+## Yale University (Teaching Assistant)
 
-| Course   | Level  | Instructor | Years  |
+| Course   | Level  | Instructor | Period  |
 | -------- | ------ | ---------- | ------ |
 | Introduction to Probability and Statistics | Undergraduate  | Yusuke Narita | Fall 2020
 | Econometrics | Undergraduate | Yuichi Kitamura | Spring 2021
@@ -19,9 +19,9 @@ author_profile: true
 
 </br>
 
-### FGV EPGE (Teaching Assistant)
+## FGV EPGE (Teaching Assistant)
 
-| Course | Level  | Instructor | Years |
+| Course | Level  | Instructor | Period |
 | -------- | ------ | -------- | ----- | 
 | Statistics I  | Graduate | Caio Almeida | 2017
 | Statistics II  | Graduate | Marcelo Moreira | 2017
