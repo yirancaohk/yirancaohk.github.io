@@ -10,6 +10,6 @@ redirect_from:
 
 My name is Fernando Cordeiro, and I’m a Ph.D. candidate in Economics at Yale University.
 
-I’m interested in Industrial Organization, Education and Applied Econometrics.
+I’m interested in Industrial Organization, Economics of Education, and Applied Econometrics.
 
 You can reach me at fernando.cordeiro@yale.edu
