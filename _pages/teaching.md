@@ -7,6 +7,8 @@ redirect_from:
   - /teaching.html
 ---
 
+{% include base_path %}
+
 ### Yale University (Teaching Assistant)
 
 | Course   | Level  | Instructor | Years  |
