@@ -9,7 +9,7 @@ author_profile: true
 
 
 ### Work in Progress
-**Ownership Effect on Productivity and Investment: Water Utilities in Brazil** _with Rodrigo Naumann_
+- **Ownership Effect on Productivity and Investment: Water Utilities in Brazil** _with Rodrigo Naumann_
 
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
