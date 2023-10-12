@@ -7,6 +7,7 @@ author_profile: true
 
 ### Working Papers
 - **College Quality and Tuition Subsidies in Equilibrium** _with Alvaro Cox_ [Job Market Paper]
+<span style="color:red">Draft coming soon!</span>.
 
 ### Work in Progress
 - **Ownership Effect on Productivity and Investment: Water Utilities in Brazil** _with Rodrigo Naumann_
