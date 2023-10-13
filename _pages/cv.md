@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[CV in pdf](https://fpcordeiro.github.io/files/Cordeiro_Fernando_CV.pdf)
+
 Education
 ======
 * Ph.D., Economics, Yale University, (Expected 2024)
