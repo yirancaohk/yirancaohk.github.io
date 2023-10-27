@@ -8,6 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+<p align="center">
+  <img src="https://fpcordeiro.github.io/images/profile_aboutme.jpg" />
+</p>
+
+
 My name is Fernando Cordeiro, and I’m a Ph.D. candidate in Economics at Yale University.
 
 I’m interested in Industrial Organization, Economics of Education, and Applied Econometrics.
