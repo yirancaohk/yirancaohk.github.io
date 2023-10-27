@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 
-<div class="figure_aboutme">
+<!-- <div class="figure_aboutme">
   <img src="https://fpcordeiro.github.io/images/profile_aboutme.jpg" />
-</div>
+</div> -->
 
 My name is Fernando Cordeiro, and I’m a Ph.D. candidate in Economics at Yale University.
 
