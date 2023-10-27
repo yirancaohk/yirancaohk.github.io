@@ -177,6 +177,14 @@ li ol {
    ========================================================================== */
 
 /* Figures and images */
+.figure_aboutme {
+  display: table-cell;
+  vertical-align: top;
+  img {
+    width: 200px;
+    height: auto;
+  }
+}
 
 figure {
   display: -webkit-box;
