@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Welcome!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -13,7 +13,7 @@ redirect_from:
   <img src="https://fpcordeiro.github.io/images/profile_aboutme.jpg" />
 </div> -->
 
-Welcome! I am a Ph.D. candidate in Economics at Yale University.
+I am a Ph.D. candidate in Economics at Yale University.
 
 My research interests are in Industrial Organization, Economics of Education, and Applied Econometrics.
 
