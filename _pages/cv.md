@@ -11,12 +11,12 @@ redirect_from:
 
 [CV in pdf](https://fpcordeiro.github.io/files/Cordeiro_Fernando_CV.pdf)
 
-Education
+<!-- Education
 ======
 * Ph.D., Economics, Yale University, (Expected 2024)
 * M.Phil, M.A., Economics, Yale University, 2022
 * M.A., Economics, FGV EPGE, 2018
-* B.A., Economics, PUC-Rio, 2015
+* B.A., Economics, PUC-Rio, 2015 -->
 
 <!-- Work experience
 ======
