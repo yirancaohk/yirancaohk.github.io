@@ -5,15 +5,15 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Lingnan University (Instructor)
+# Lingnan University 
 
-| Course| Level  | Period |
-|----| ------| ----|
-| Behavioural Economics | Undergraduate | Fall 2022
-| Intermediate Microeconomics | Undergraduate | Summer 2023
+**Instructor**
 
-## Lingnan University (Teaching Assistant)
+- Behavioural Economics, Undergraduate (Fall 2022).
 
-| Course| Level  |Period |
-|----| ------|----| 
-|Tools for Economic Analysis| Undergraduate | Spring 2020
+- Intermediate Microeconomics, Undergraduate (Summer 2023).
+
+
+**Teaching Assistant**
+
+- Tools for Economic Analysis, Undergraduate (Spring 2020).
