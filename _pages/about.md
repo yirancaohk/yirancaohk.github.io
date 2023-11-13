@@ -19,4 +19,4 @@ I am on the 2023-24 job market.
 
 You can reach me at [yirancao@ln.hk](mailto:yirancao@ln.hk).
 
-You can find my [CV here](https://yirancaohk.github.io/files/Carol_CV_Nov.pdf).
+
