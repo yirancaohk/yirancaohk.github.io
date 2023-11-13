@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yiran Cao, Carol"
+title                    : "Yiran Cao"
 title_separator          : "-"
-name                     : &name "Yiran Cao, Carol"
+name                     : &name "Yiran Cao"
 description              : &description "personal description"
 url                      : https://yirancaohk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,10 +81,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yiran Cao, Carol"
+  name             : "Yiran Cao"
   avatar           : "Profile_Carol.jpg"
   bio              : "Research Fellow at Lingnan University"
-  location         : "8 Castle Peak Road, Tuen Mun, Hong Kong"
+  location         : "8 Castle Peak Road, Tuen Mun, \\ New Territories, Hong Kong"
   employer         :
   pubmed           : 
   googlescholar    : 
