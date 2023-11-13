@@ -13,11 +13,9 @@ redirect_from:
   <img src="https://fpcordeiro.github.io/images/profile_aboutme.jpg" />
 </div> -->
 
-I am currently a research fellow at Lingnan University.
+I am currently a research fellow at Lingnan University, where I obtained my Ph.D. in Economics in 2022. My research focuses on the fields of Industrial Organization and Competition Policy. 
 
-My research interests are in Industrial Organization, and Competition Policy.
-
-I am on the 2023-24 job market.
+I am on the 2023-24 job market. 
 
 You can reach me at [yirancao@ln.hk](mailto:yirancao@ln.hk).
 
