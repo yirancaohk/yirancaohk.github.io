@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### Working Papers
-- **[Search and Competition in Expert Markets.]([https://fpcordeiro.github.io/files/cordeiro_jmp.pdf](https://mpra.ub.uni-muenchen.de/114170/8/MPRA_paper_114170.pdf))** _with Yongmin Chen, Yucheng Ding, and Tianle Zhang_ (R&R at RAND Journal of Economics) [Job Market Paper]
+- **[Search and Competition in Expert Markets.]([https://yirancaohk.github.io/files/Carol_jmp.pdf])** _with Yongmin Chen, Yucheng Ding, and Tianle Zhang_ (R&R at RAND Journal of Economics) [Job Market Paper]
   ><span style="font-size:0.75em">We develop a model in which consumers sequentially search experts for recommendations and prices to treat a problem, and experts simultaneously compete in these two dimensions. Consumers have either zero or a positive search cost. In equilibrium, experts may “cheat” by recommending an unnecessary treatment with positive probabilities, prices follow distributions that depend on a consumer’s problem type and the treatment, and consumers search with Bayesian belief updating about their problem types. Remarkably, as search cost decreases, both expert cheating and prices can increase stochastically. However, if search cost is sufficiently small, competition will force all experts to behave honestly.</span>
 
 - **Killer Acquisition in Vertically Related Industries.** _with Ping Lin, and Tianle Zhang_
