@@ -83,8 +83,8 @@ analytics:
 author:
   name             : "Yiran Cao"
   avatar           : "Profile_Carol.jpg"
-  bio              : "Research Fellow at Lingnan University"
-  location         : "8 Castle Peak Road, Tuen Mun, New Territories, Hong Kong"
+  bio              : "Research Fellow at Lingnan University, Hong Kong."
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yirancaohk.github.io"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
