@@ -11,7 +11,7 @@ title                    : "Yiran Cao, Carol"
 title_separator          : "-"
 name                     : &name "Yiran Cao, Carol"
 description              : &description "personal description"
-url                      : https://fpcordeiro.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yirancaohk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yirancaohk/yirancaohk.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Yiran Cao, Carol"
-  avatar           : "Carol_5.jpg"
+  avatar           : "Profile_Carol.jpg"
   bio              : "Research Fellow at Lingnan University"
   location         : "8 Castle Peak Road, Tuen Mun, Hong Kong"
   employer         :
