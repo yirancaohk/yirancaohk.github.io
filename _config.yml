@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-# google_site_verification :
+#google_site_verification : 
 # google-site-verification : 59AN_zfJKBg66ggZGi5ZodkqJSqZjbadSMO5vkKkCtY
 bing_site_verification   :
 alexa_site_verification  :
@@ -84,7 +84,7 @@ author:
   name             : "Yiran Cao"
   avatar           : "Profile_Carol.jpg"
   bio              : "Research Fellow at Lingnan University"
-  location         : "8 Castle Peak Road, Tuen Mun, \\ New Territories, Hong Kong"
+  location         : "8 Castle Peak Road, Tuen Mun, New Territories, Hong Kong"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : "yirancaohk.github.io"
   google_plus      :
   keybase          :
   instagram        :
