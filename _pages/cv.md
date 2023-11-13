@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[CV in pdf](https://yirancaohk.github.io/files/Carol_CV_Nov.pdf)
+Click [here](https://yirancaohk.github.io/files/Carol_CV_Nov_2.pdf) to check my CV. 
 
 <!-- Education
 ======
