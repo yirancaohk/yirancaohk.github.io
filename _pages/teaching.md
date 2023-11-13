@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-# Lingnan University 
+
 
 **Instructor**
 
