@@ -13,12 +13,12 @@ redirect_from:
   <img src="https://fpcordeiro.github.io/images/profile_aboutme.jpg" />
 </div> -->
 
-I am a Ph.D. candidate in Economics at Yale University.
+I am currently a research fellow at Lingnan University.
 
-My research interests are in Industrial Organization, Economics of Education, and Applied Econometrics.
+My research interests are in Industrial Organization, and Competition Policy.
 
 I am on the 2023-24 job market.
 
-You can reach me at [fernando.cordeiro@yale.edu](mailto:fernando.cordeiro@yale.edu).
+You can reach me at [yirancao@ln.hk](mailto:yirancao@ln.hk).
 
 You can find my [CV here](https://fpcordeiro.github.io/files/Cordeiro_Fernando_CV.pdf).
