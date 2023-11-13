@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Fernando Cordeiro"
+title                    : "Yiran Cao, Carol"
 title_separator          : "-"
-name                     : &name "Fernando Cordeiro"
+name                     : &name "Yiran Cao, Carol"
 description              : &description "personal description"
 url                      : https://fpcordeiro.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "fpcordeiro/fpcordeiro.github.io"
+repository               : "yirancaohk/yirancaohk.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -51,7 +51,7 @@ atom_feed:
 
 # SEO Related
 # google_site_verification :
-google-site-verification : 59AN_zfJKBg66ggZGi5ZodkqJSqZjbadSMO5vkKkCtY
+# google-site-verification : 59AN_zfJKBg66ggZGi5ZodkqJSqZjbadSMO5vkKkCtY
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -81,14 +81,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Fernando Cordeiro"
+  name             : "Yiran Cao, Carol"
   avatar           : "profile_aboutme.jpg"
-  bio              : "Ph.D. Candidate in Economics at Yale University"
-  location         : "New Haven, CT, USA"
+  bio              : "Research Fellow at Lingnan University"
+  location         : "8 Castle Peak Road, Tuen Mun, New Territories, Hong Kong"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "fernando.cordeiro@yale.edu"
+  email            : "yirancao@ln.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -97,13 +97,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "fpcordeiro"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "cordeirofernando"
+  linkedin         : 
   orcid            :
   pinterest        :
   soundcloud       :
