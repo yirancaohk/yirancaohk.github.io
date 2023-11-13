@@ -14,7 +14,7 @@ We develop a model in which consumers sequentially search experts for recommenda
 
 - _Partial Vertical Integration, and Market Foreclosure._ with Ping Lin, 2022. 
 
-<p style="text-align: justify;">
+><p style="text-align: justify;">
   This paper investigates whether a partial vertical merger results in market foreclosure, and how the integrating firm's foreclosure strategy affects consumer welfare, in a successive duopoly setting. The result suggests that the magnitude of partial ownership shares has a significant impact on the integrated firm's incentive in foreclosing competitors. The integrated upstream firm, in particular, chooses input foreclosure if and only if the ownership stake is significant enough, and the integrated downstream firm executes customer foreclosure if and only if the ownership stake is intermediate. Furthermore, consumers benefit the most when the ownership share is intermediate.
 </p>
   
