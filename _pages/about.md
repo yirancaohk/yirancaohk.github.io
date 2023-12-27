@@ -19,6 +19,6 @@ I am on the 2023-24 job market.
 
 You can reach me at [yirancao@ln.hk](mailto:yirancao@ln.hk).
 
-You can click [here](https://yirancaohk.github.io/files/曹奕然_CV.pdf) to check my CV. 
+You can click [here](https://yirancaohk.github.io/files/CV_Yiran Cao(曹奕然).pdf) to check my CV. 
 
 
