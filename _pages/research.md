@@ -7,7 +7,7 @@ author_profile: true
 
 ### Working Papers
 
-- [_Search and Competition in Expert Markets._]([https:yirancaohk.github.io/files/Search in expert markets Dec-18-2022-with figures.pdf]) with Yongmin Chen, Yucheng Ding, and Tianle Zhang, 2022, R&R at **RAND Journal of Economics**.
+- [_Search and Competition in Expert Markets._]([https://yirancaohk.github.io/files/Search in expert markets Dec-18-2022-with figures.pdf]) with Yongmin Chen, Yucheng Ding, and Tianle Zhang, 2022, R&R at **RAND Journal of Economics**.
   
 ><p style="text-align: justify;">
 We develop a model in which consumers sequentially search experts for recommendations and prices to treat a problem, and experts simultaneously compete in these two dimensions. Consumers have either zero or a positive search cost. In equilibrium, experts may “cheat” by recommending an unnecessary treatment with positive probabilities, prices follow distributions that depend on a consumer’s problem type and the treatment, and consumers search with Bayesian belief updating about their problem types. Remarkably, as search cost decreases, both expert cheating and prices can increase stochastically. However, if search cost is sufficiently small, competition will force all experts to behave honestly.
