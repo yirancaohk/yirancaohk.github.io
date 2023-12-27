@@ -7,12 +7,12 @@ author_profile: true
 
 ### Working Papers
 
-- [_Search and Competition in Expert Markets._]([https://yirancaohk.github.io/files/Search in expert markets Dec-18-2022-with figures.pdf]) with Yongmin Chen, Yucheng Ding, and Tianle Zhang, 2022, R&R at **RAND Journal of Economics**.
+- [_Search and Competition in Expert Markets._]([https:yirancaohk.github.io/files/Search in expert markets Dec-18-2022-with figures.pdf]) with Yongmin Chen, Yucheng Ding, and Tianle Zhang, 2022, R&R at **RAND Journal of Economics**.
   
 ><p style="text-align: justify;">
 We develop a model in which consumers sequentially search experts for recommendations and prices to treat a problem, and experts simultaneously compete in these two dimensions. Consumers have either zero or a positive search cost. In equilibrium, experts may “cheat” by recommending an unnecessary treatment with positive probabilities, prices follow distributions that depend on a consumer’s problem type and the treatment, and consumers search with Bayesian belief updating about their problem types. Remarkably, as search cost decreases, both expert cheating and prices can increase stochastically. However, if search cost is sufficiently small, competition will force all experts to behave honestly.
 
-- _Killer Acquisitions, Competition Evaluation, and Remedies._with Ping Lin, 2023, under review at International Journal of Industrial Organization.
+- _Killer Acquisitions, Competition Evaluation, and Remedies._ with Ping Lin, 2023, under review at International Journal of Industrial Organization.
   
 ><p style="text-align: justify;">
 Killer acquisitions have become a big competition concern globally recently. We establish a synergy-effect test for evaluating the competitive impact of start-up acquisitions. An acquisition is welfare-enhancing if and only if the level of synergy effect exceeds a threshold which is proportionate to the unilateral effect in the post-R&D product market. A Commit-to-Continue remedy can effectively eliminate KA transactions, while a product-line divestiture remedy can eradicate welfare-reducing non-KA transactions. We also consider voluntary divestitures by the acquiring firm in a Cournot setting. We show that KA is considerably less likely to occur due to a reversed merger paradox effect.
