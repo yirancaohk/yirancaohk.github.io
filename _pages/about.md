@@ -15,8 +15,6 @@ redirect_from:
 
 My name is Yiran Cao, Carol. I obtained my Ph.D. degree in Economics in 2022 from Lingnan University, Hong Kong. I am currently a research fellow at Lingnan University. My research focuses on the fields of Industrial Organization and Competition Policy. 
 
-I am on the 2023-24 job market. 
-
 You can reach me at [yirancao@ln.hk](mailto:yirancao@ln.hk).
 
 You can click [here](https://yirancaohk.github.io/files/CV_Yiran Cao(曹奕然).pdf) to check my CV. 
