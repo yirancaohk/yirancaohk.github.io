@@ -17,6 +17,6 @@ My name is Yiran Cao, Carol. I obtained my Ph.D. degree in Economics in 2022 fro
 
 You can reach me at [yirancao@ln.hk](mailto:yirancao@ln.hk).
 
-You can click [here](https://yirancaohk.github.io/files/C.pdf) to check my CV. 
+You can click [here](https://yirancaohk.github.io/files/Carol CV.pdf) to check my CV. 
 
 
