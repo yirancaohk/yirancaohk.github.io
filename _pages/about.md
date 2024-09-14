@@ -13,8 +13,8 @@ redirect_from:
   <img src="https://fpcordeiro.github.io/images/profile_aboutme.jpg" />
 </div> -->
 
-My name is Yiran Cao, Carol. I obtained my Ph.D. degree in Economics in 2022 from Lingnan University, Hong Kong. I am currently a research fellow at Lingnan University. My research focuses on the fields of Industrial Organization and Competition Policy. 
+My name is Yiran Cao, Carol. I obtained my Ph.D. degree in Economics in 2022 from Lingnan University, Hong Kong. I am currently an Assistant Professor at Jinan University, Guangzhou. My research focuses on the fields of Industrial Organization and Competition Policy. 
 
-You can reach me at [yirancao@ln.hk](mailto:yirancao@ln.hk).
+You can reach me at [yirancao430@gmail.com](mailto:yirancao430@gmail.com).
 
 
