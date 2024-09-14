@@ -34,8 +34,6 @@ Incumbent firms may acquire start-ups to eliminate potential competition by term
   
 
 
-### Work in Progress
-- Consumer Search, Consideration Set, and Price Competition.
 
 
 <!-- {% if author.googlescholar %}
