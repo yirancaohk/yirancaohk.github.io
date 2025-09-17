@@ -27,15 +27,15 @@ Incumbent firms may acquire start-ups to eliminate potential competition by term
 ><p style="text-align: justify;">
   This paper investigates whether a partial vertical merger results in market foreclosure, and how the integrating firm's foreclosure strategy affects consumer welfare, in a successive duopoly setting. The result suggests that the magnitude of partial ownership shares has a significant impact on the integrated firm's incentive in foreclosing competitors. The integrated upstream firm, in particular, chooses input foreclosure if and only if the ownership stake is significant enough, and the integrated downstream firm executes customer foreclosure if and only if the ownership stake is intermediate. Furthermore, consumers benefit the most when the ownership share is intermediate.
 
-### Selected Work in progress
+Selected Work in progress
 
-- _Price Competition in Search Markets: The Role of Consumer Consideration Sets._with Yongmin Chen, and Tianle Zhang.
+- _Price Competition in Search Markets: The Role of Consumer Consideration Sets._ with Yongmin Chen, and Tianle Zhang.
+
+- _Searching Experts for Opinion: An Experimental Study._ with King King Li, and Tianle Zhang.
   
-- _Searching Experts for Opinion: An Experimental Study._with King King Li, and Tianle Zhang.
+- _Algorithms, Humans, and the Cost of Looking: Search in Credence Markets with Mixed Access Technologies._ with Roman Matousek, Panayiotis G. Tzeremes, and Nickolaos G. Tzeremes.
   
-- _Algorithms, Humans, and the Cost of Looking: Search in Credence Markets with Mixed Access Technologies._with Roman Matousek, Panayiotis G. Tzeremes, and Nickolaos G. Tzeremes.
-  
-- _Free-riding, Cartel Stability, and Vertical Integration._With Ping Lin, and Danqing Shen.
+- _Free-riding, Cartel Stability, and Vertical Integration._ With Ping Lin, and Danqing Shen.
   
 
 
