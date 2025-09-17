@@ -29,10 +29,13 @@ Incumbent firms may acquire start-ups to eliminate potential competition by term
 
   ### Selected Work in progress
 
--_Price Competition in Search Markets: The Role of Consumer Consideration Sets._with Yongmin Chen, and Tianle Zhang.
--_Searching Experts for Opinion: An Experimental Study._with King King Li, and Tianle Zhang.
--_Algorithms, Humans, and the Cost of Looking: Search in Credence Markets with Mixed Access Technologies._with Roman Matousek, Panayiotis G. Tzeremes, and Nickolaos G. Tzeremes.
--_Free-riding, Cartel Stability, and Vertical Integration._With Ping Lin, and Danqing Shen.
+- _Price Competition in Search Markets: The Role of Consumer Consideration Sets._with Yongmin Chen, and Tianle Zhang.
+  
+- _Searching Experts for Opinion: An Experimental Study._with King King Li, and Tianle Zhang.
+  
+- _Algorithms, Humans, and the Cost of Looking: Search in Credence Markets with Mixed Access Technologies._with Roman Matousek, Panayiotis G. Tzeremes, and Nickolaos G. Tzeremes.
+  
+- _Free-riding, Cartel Stability, and Vertical Integration._With Ping Lin, and Danqing Shen.
   
 
 
